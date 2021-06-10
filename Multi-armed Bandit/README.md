@@ -15,6 +15,7 @@ Solve k-armed bandit problem with ε-greedy (sample-average) method, greedy (sam
 It's obvious that all algorithms perform well within a wide range of parameter values.  
 
 <br>
+<br>
 
 ### performance comparison under respective best parameter values
 <left class="half">
