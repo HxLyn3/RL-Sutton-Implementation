@@ -8,15 +8,15 @@ Solve k-armed bandit problem with ε-greedy (sample-average) method, greedy (sam
 - `tqdm 4.60.0`  
 
 ## Result
-### parameter study  
+### parameter study
 <left class="half">
     <img src="./figs/parameter_study.png" width="500"/>
 </left>  
-It's obvious that all algorithms perform well within a wide range of parameter values.
+It's obvious that all algorithms perform well within a wide range of parameter values.  
 
 <br>
 
-### performance comparison under respective best parameter values  
+### performance comparison under respective best parameter values
 <left class="half">
     <img src="./figs/comparison.png" width="500"/>
 </left>  
