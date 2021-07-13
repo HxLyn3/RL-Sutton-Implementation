@@ -13,8 +13,6 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/env.png" height="300"/>
 </left>  
 
-<br>
-
 | Info |Description|
 |----|----|
 |Size|8x8|
@@ -32,17 +30,11 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/PI1.png" height="300"/>
 </left>  
 
-<br>
-<br>
-
 ### Iteration 1
 
 <left class="half">
     <img src="./figs/PI2.png" height="300"/>
 </left>  
-
-<br>
-<br>
 
 ### Iteration 2
 
@@ -50,8 +42,6 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/PI3.png" height="300"/>
 </left>  
 
-<br>
-<br>
 <br>
 
 ## Value Iteration
@@ -61,17 +51,11 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/VI1.png" height="300"/>
 </left>  
 
-<br>
-<br>
-
 ### Iteration 1
 
 <left class="half">
     <img src="./figs/VI2.png" height="300"/>
 </left>  
-
-<br>
-<br>
 
 ### Iteration 2
 
@@ -79,17 +63,11 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/VI3.png" height="300"/>
 </left>  
 
-<br>
-<br>
-
 ### Iteration 3
 
 <left class="half">
     <img src="./figs/VI4.png" height="300"/>
 </left>  
-
-<br>
-<br>
 
 ### Iteration 4
 
@@ -97,26 +75,17 @@ Solve simple Grid-World problem with Policy Iteration and Value Iteration respec
     <img src="./figs/VI5.png" height="300"/>
 </left>  
 
-<br>
-<br>
-
 ### Iteration 5
 
 <left class="half">
     <img src="./figs/VI6.png" height="300"/>
 </left>  
 
-<br>
-<br>
-
 ### Iteration 6
 
 <left class="half">
     <img src="./figs/VI7.png" height="300"/>
 </left>  
-
-<br>
-<br>
 
 ### Iteration 7
 
